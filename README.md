@@ -104,8 +104,3 @@ All date values are converted to Prophet-friendly format:
 
 ---
 
-## 📬 Contact
-
-For suggestions, feedback, or collaboration ideas:  
-**Your Name** – [your.email@example.com]  
-**LinkedIn** – [linkedin.com/in/your-profile](#)
