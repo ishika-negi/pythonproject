@@ -90,12 +90,8 @@ All date values are converted to Prophet-friendly format:
 ---
 
 ## 📸 Dashboard Preview
-![Screenshot 2025-04-23 230016](https://github.com/user-attachments/assets/be9d0b27-25c2-4e1d-bb57-d16d479a209e)
-![Screenshot 2025-04-23 230016](https://github.com/user-attachments/assets/a9bd9d46-1424-4875-aaa8-c3d77244b0f7)
-![Screenshot 2025-04-23 225857](https://github.com/user-attachments/assets/7528a40a-197c-4bc0-aa44-10c6bde1f073)
-![Screenshot 2025-04-23 225414](https://github.com/user-attachments/assets/4037a450-9f42-4caa-948a-58718bec97d2)
-![Screenshot 2025-04-23 225414](https://github.com/user-attachments/assets/689964c4-65f5-440a-b320-f63fa46f9fdc)
-![Screenshot 2025-04-23 224548](https://github.com/user-attachments/assets/1cada070-8884-4185-b6b1-2b50a3e225f4)
+![image](https://github.com/user-attachments/assets/e1016e7e-fb6c-407f-8ac8-04028bd0aeb8)
+
 
 
 
